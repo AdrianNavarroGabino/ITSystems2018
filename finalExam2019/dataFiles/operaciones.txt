@@ -1,0 +1,8 @@
+suma;4.25;7
+resta;9.13;0.23
+multiplica;4;7
+divide;12;4.5
+menor;9;8
+resta;5;9.9
+multiplica;3.25;5.5
+suma;43;23
